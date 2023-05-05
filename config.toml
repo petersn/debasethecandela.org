@@ -1,4 +1,4 @@
-baseURL = 'http://hugo-quickstart-template.netlify.com'
+baseURL = 'https://debasethecandela.org'
 languageCode = 'en-us'
-title = 'Netlify + Hugo Quickstart'
+title = 'Debase the Candela'
 theme = 'netlify-basic'
